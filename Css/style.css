@@ -1,0 +1,42 @@
+body{
+    background-color: #1283cf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 100px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+p {
+    line-height: 40px;
+    font-size: 40px;
+    text-align: justify;
+}
+
+#text01 {
+    color: brown;
+    text-align: right;
+}
+
+#text02{
+    background-color: bisque;
+    text-transform: uppercase;
+}
+
+img{
+    height: 320px;
+    width: 320px;
+    border-radius: 320px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
+
